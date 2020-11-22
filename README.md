@@ -18,10 +18,17 @@ The code was refactored following the specific Canvas instructions and runs much
 
 ## Fig.2: Original code runtime for 2017 and 2018
 
-As we can see, the refactored code is about 0.4s faster than the original.
-
+  As we can see, the refactored code is about 0.4s faster than the original.
 The refactored code’s superior performance comes from removing a nested for loop.   
-
+'''
+"Original Code"
+For i = 0 To 11
+       ticker = tickers(i)
+       totalVolume = 0
+       '5) loop through rows in the data
+       Worksheets(yearValue).Activate
+       For j = 2 To RowCount
+'''
 
 
 ## Summary
