@@ -11,10 +11,12 @@ The code was refactored following the specific Canvas instructions and runs much
 
  
 ![alt text](https://github.com/specialcanadian/stock-analysis/blob/main/Resources/GithubImgRefactoredCode.png?raw=true)
+
 Fig.1: Refactored code runtime for 2017 and 2018
 
 
 ![alt text](https://github.com/specialcanadian/stock-analysis/blob/main/Resources/GitHubImgOldCode.png?raw=true)  
+
 Fig.2: Original code runtime for 2017 and 2018
 
 As we can see, the refactored code is about 0.4s faster than the original.
