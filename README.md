@@ -10,11 +10,11 @@ Steve requested A VBA program he could use to study DQ’s stock performance dur
 The code was refactored following the specific Canvas instructions and runs much faster than before. Here are the current time results for the refactored code, and the original (Fig.1, Fig.2).
 
  
-![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/ExtraImages/PivotTable.png?raw=true)
+![alt text](https://github.com/specialcanadian/stock-analysis/blob/main/Resources/GithubImgRefactoredCode.png?raw=true)
 Fig.1: Refactored code runtime for 2017 and 2018
 
 
-![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/ExtraImages/PivotTable.png?raw=true)  
+![alt text](https://github.com/specialcanadian/stock-analysis/blob/main/Resources/GitHubImgOldCode.png?raw=true)  
 Fig.2: Original code runtime for 2017 and 2018
 
 As we can see, the refactored code is about 0.4s faster than the original.
