@@ -48,7 +48,10 @@ After running the code once for each year, we have two tables (Table.1 and Table
 
 ## Table.2: Performance of stocks in 2018
 ![alt text](https://github.com/specialcanadian/stock-analysis/blob/main/Resources/Stock_performance_2018.png?raw=true)
+Looking at these, Steve can make some conclusions about his parents investing in DQ stock. Although DQ saw an almost 200% return in 2017, it went down in 2018, so a bit more data would be needed to conclusively see a trend. The best options seem to be ENPH and RUN, as they both were in the green both years.   
 ## Summary
+Refactoring code takes time, and sometimes you may not be able to improve performance, but it is still a useful process. In addition to possibly improving performance, it gives you a chance to add useful comments, or use clearer variable names.
+With the stocks analysis code, as mentioned in the results section, it was possible to save 0.4s on the runtime, which will be very useful for Steve, who may be using it a lot. The downside was it took a while to get the refactored code correct, as my first version took about 10 seconds longer than the original code to run. It took some extra effort and help to get it running correctly.   
 
 ###
 
